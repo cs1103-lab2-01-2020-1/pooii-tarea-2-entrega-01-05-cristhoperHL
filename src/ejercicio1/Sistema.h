@@ -10,6 +10,7 @@ public:
     
     Sistema(){};
 
+    void set_users();
     void verifiy_Stock();
     void New_user();    
     void Authentication();

@@ -1,7 +1,7 @@
 #ifndef PRODUCTO_H
 #define PRODUCTO_H
 
-#include "tipos.h"
+#include "../librerias/tipos.h"
 
 class Producto{
 

@@ -4,6 +4,13 @@
 #include"Sistema.h"
 #include"Funciones.cpp"
 
+
+void Sistema::set_users(){
+    vector<string> data;
+    data=Leer_datos("../data/users.csv")
+        
+}
+
 void Sistema::verifiy_Stock(){
 
 }
