@@ -10,10 +10,10 @@ public:
     
     Sistema(){};
 
-    void set_users();
-    void verifiy_Stock();
-    void New_user();    
-    void Authentication();
+    void New_user(const string &_username,const string &_password,const string &_direccion);    
+    int User_posicion(const string &_username,const string&_password);
+    bool Authentication(const string &_username,const string &_password);
+    void User_options(User &user_new,const int &posicion);
     void Menu();
     
 

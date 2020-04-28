@@ -5,6 +5,9 @@
 
 int main() {
 
+    Sistema s1;
+
+    s1.Menu();
 
     return 0;
 }
