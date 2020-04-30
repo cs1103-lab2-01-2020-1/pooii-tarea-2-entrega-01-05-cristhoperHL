@@ -1,0 +1,3 @@
+/mnt/c/Users/crist/Desktop/pooii-tarea-2-entrega-01-05-cristhoperHL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/crist/Desktop/pooii-tarea-2-entrega-01-05-cristhoperHL/cmake-build-debug/CMakeFiles/pooii-tarea-2-entrega-01-05-cristhoperHL.dir
+/mnt/c/Users/crist/Desktop/pooii-tarea-2-entrega-01-05-cristhoperHL/cmake-build-debug/CMakeFiles/edit_cache.dir
